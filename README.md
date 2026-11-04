@@ -1,5 +1,7 @@
 # 웨슬리 『원죄론』 한국어 번역
 
+**(작업자 쉬운목사 이광복)**
+
 John Wesley, *The Doctrine of Original Sin, According to Scripture, Reason, and Experience* (Bristol, 1757)의 한국어 번역 모음입니다.
 
 **▶ 목차가 뜨고 사라지는 읽기용 페이지: https://raon-easypaster.github.io/wesley-original-sin-ko/**
